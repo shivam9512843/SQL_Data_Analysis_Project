@@ -1,2 +1,2 @@
-# SQL_Data_Cleaning_Project
+# SQL_Data_Analytics_Project
 Data Analytics Project
